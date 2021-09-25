@@ -2,6 +2,7 @@
 
 ## Google It like Pro
 
+```
 1) site:stackoverflow.com react hooks 
 2) dom events -jquery
 3) React Hooks after:2020
@@ -15,3 +16,4 @@
 wildcard examples,
 how to build a * whith tailwind
 site:*.fireship.io -www
+```
